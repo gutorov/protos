@@ -1,0 +1,6 @@
+// Версия ProtoBuf
+syntax = "proto3";
+
+package auth;
+
+option go_package = "tuzov.sso.v1;ssov1";
